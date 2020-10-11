@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Mood.vue Doesnt change style 1`] = `
+<button>
+  new message
+</button>
+`;
